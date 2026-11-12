@@ -1,0 +1,16 @@
+Package: tennisCareer
+Title: Tennis Player Career Data and Visualization
+Version: 0.1.0
+Authors@R: person("Andrew", "Kim", email = "adhkim05@berkeley.edu", role = c("aut", "cre"))
+Description: Retrieves, cleans, and visualizes professional tennis
+    players' career match data from Tennis Abstract.
+License: MIT
+Encoding: UTF-8
+Imports:
+    ggplot2,
+    dplyr,
+    lubridate,
+    jsonlite
+Suggests:
+    testthat
+Config/testthat/edition: 3
