@@ -1,0 +1,26 @@
+AI Usage Documentation - STAT 159 HW3
+
+AI Tool Used:
+ChatGPT (OpenAI)
+
+I used ChatGPT throughout this assignment to help develop, debug, test, and document my R package. I primarily used it to understand R package development practices, troubleshoot errors, and improve my code.
+
+Types of Prompts Used:
+
+1. Package Development
+I asked ChatGPT how to structure an R package with public and private functions, organize dependencies, and handle different data formats for male and female tennis players.
+
+2. Debugging and Error Resolution
+I shared terminal outputs and error messages with ChatGPT to identify issues involving package dependencies, namespace imports, and R CMD check.
+
+3. Testing and Verification
+I asked ChatGPT for help developing and reviewing automated tests, including edge cases and invalid inputs. I also used it to determine how to test my package's public functions directly.
+
+4. Code Refactoring
+I used ChatGPT to help shorten functions to satisfy the assignment's 20-line limit while preserving their functionality.
+
+Verification:
+
+I reviewed and tested the suggested code in my Jupyter environment. I ran automated tests, checked the generated visualization, and verified that R CMD check completed with Status: OK. I also manually tested data retrieval and plotting for Serena Williams and Rafael Nadal, as well as error handling for an invalid player name.
+
+Overall, AI served as a coding and debugging assistant, while I used testing and manual verification to evaluate the results.
