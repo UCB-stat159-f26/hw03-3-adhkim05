@@ -1,2 +1,3 @@
 export(get_player_data)
 export(plot_player_matches)
+importFrom(rlang,.data)
