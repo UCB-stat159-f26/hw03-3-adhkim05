@@ -1,0 +1,5 @@
+
+# R package build artifacts
+*.Rcheck/
+*.tar.gz
+.ipynb_checkpoints/

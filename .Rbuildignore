@@ -1,0 +1,4 @@
+^\.ipynb_checkpoints$
+^.*[\\/]\.ipynb_checkpoints$
+^tennisCareer\.Rcheck$
+^tennisCareer_.*\.tar\.gz$
